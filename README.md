@@ -25,6 +25,9 @@ Blog: https://www.cropin.com/blogs/introducing-aksara-a-digital-agronomist First
 Demo: https://huggingface.co/spaces/cropinailab/aksara Model Card: https://huggingface.co/cropinailab/aksara_v1
 
 ---
+## WATCH VIDEO DEMO
+[![▶ Watch the demo](https://img.youtube.com/vi/FAe8QN5Ktog/0.jpg)](https://www.youtube.com/watch?v=FAe8QN5Ktog)
+
 
 ## 🚀 Features
 
