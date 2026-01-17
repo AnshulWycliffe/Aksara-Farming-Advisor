@@ -28,7 +28,7 @@ Demo: https://huggingface.co/spaces/cropinailab/aksara Model Card: https://huggi
 
 ## 🚀 Features
 
-- 🤖 **Local LLM (GGUF)** using `llama-cpp-python`
+- 🤖 **Local µLM (GGUF)** using `llama-cpp-python`
 - 🌱 **Strict agriculture-only responses**
 - 🧠 **Strong system prompt enforcement**
 - 📡 **Real-time streaming responses**
