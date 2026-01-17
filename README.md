@@ -99,6 +99,7 @@ Once started, you will see:
 - Public Ngrok URL (printed in terminal)
 
 ---
+<img width="1227" height="687" alt="ss1" src="https://github.com/user-attachments/assets/430bbc3a-ca39-4bc2-9de0-8ff7c13bb8f2" />
 
 ## 🧪 API Endpoints
 
