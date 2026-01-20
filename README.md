@@ -1,6 +1,6 @@
 # 🌾 Aksara Farming Advisor
 
-Aksara Farming Advisor is an **AI-powered farming assistant** built using **Flask**, **llama-cpp-python**, and a modern streaming chat UI.  
+Akṣara Farming Advisor is an **AI-powered farming assistant** built using **Flask**, **llama-cpp-python**, and a modern streaming chat UI.  
 It leverages the **Aksara v1 GGUF LLM** to provide **structured, agriculture-focused responses** for farmers and agriculture enthusiasts.
 - Model URL: [huggingFace/cropinailab/aksara_v1](https://huggingface.co/cropinailab/aksara_v1)
 - Github Repo: [github/Cropin-AILab/aksara](https://github.com/Cropin-AILab/aksara)
